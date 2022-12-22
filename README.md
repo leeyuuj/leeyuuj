@@ -15,8 +15,12 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=6FC7E1&height=200&section=header&text=YujeongLee&fontSize=80)
 
-💪 Skills <br>
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"> <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"> <img src="https://img.shields.io/badge/Coursera-0056D2?style=flat-square&logo=Coursera&logoColor=white"> <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white">
+💪 My Skills <br>
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"> 
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white">
+<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"> 
+<img src="https://img.shields.io/badge/Coursera-0056D2?style=flat-square&logo=Coursera&logoColor=white">
+<img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white">
 
 ![GitHub followers](https://img.shields.io/github/followers/leeyuuj?style=social)
 
